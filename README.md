@@ -27,7 +27,7 @@ Download the data set and conduct experiments according to the relevant settings
 
 ## 2. Set up
 
-We provide two settings for supervised learning and continuous learning. For each part of the model, please see the model.py file. Main.py is used for training and evaluation. Please replace the file location with your own file location.
+We provide two settings for supervised learning and continuous learning. For each part of the model, please see the AGNER file. Main.py is used for training and evaluation. Please replace the file location with your own file location.
 
 ## 3. Thanks
 
